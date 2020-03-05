@@ -1,0 +1,21 @@
+README
+Wesley Tong
+1587466
+PA 1 - CSE 101
+
+Included:
+
+List.c -- ADT written by myself, implemented as a doubly linked list. Loosely based off of Queue.c, provided
+by Professor.
+
+ListClient.c -- Given to us by Professor, not modified at all. Used to test ListClient and ensure that it works
+properly
+
+Lex.c -- Written by myself, which asks for an input file and an output file and creates a linked list and sorts
+the words in a file alphabetically using their index values.
+
+List.h -- Header file for List.c, with functions provided by Professor.
+
+README -- Description of assignment
+
+Makefile -- Given by professor. Compiles the work. 
